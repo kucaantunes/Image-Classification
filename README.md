@@ -1,6 +1,15 @@
 # Image-Classification
 
-Source code
+Source code:
+
+![image](https://user-images.githubusercontent.com/26171557/187052788-d4fdde0d-2812-48db-b9d2-558424871756.png)
+
+
+![image](https://user-images.githubusercontent.com/26171557/187052792-5c9b1b25-c3bb-4c86-9529-5c8aad035161.png)
+
+
+![image](https://user-images.githubusercontent.com/26171557/187052794-e97b1bea-a849-407f-9a62-c070b6ca4f93.png)
+
 
 
 An application was developed with the VGG-16 architecture using Python, the TensorFlow software library and the Keras framework based on classification to identify in an image based on light gray scale the existence of possible diseases. In order to analyze X-Rays via web was used Flask, allowing doctors to upload the pictures and see if there is a possible disease on the uploaded image. For this application only the diseases Covid-19 for chest X-rays and CT Scans and brain tumor for MRI scans above thorax were considered.
